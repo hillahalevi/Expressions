@@ -1,5 +1,4 @@
 #hilla halevi
-#208953083
 
 In this file I would like to explain some of my actions in this project .
 I will start with the boring staff and get to the cool staff.
